@@ -106,8 +106,8 @@
 				<version>2.4.3</version>
 				<configuration>
 					<includes>
-						<include>**/*Unit.java</include>
 						<include>**/*Spec.java</include>
+						<include>**/*Suite.java</include>
 					</includes>
 				</configuration>
 			</plugin>
