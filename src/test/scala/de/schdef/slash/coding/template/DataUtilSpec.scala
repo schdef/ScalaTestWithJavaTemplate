@@ -6,7 +6,7 @@ import org.specs2.runner._
 import de.schdef.slash.coding.dummy._
 
 @RunWith(classOf[JUnitRunner])
-class DataUtilScalaTest extends Specification {
+class DataUtilSpec extends Specification {
 
   "The given value" should {
     "be invalid" in {
